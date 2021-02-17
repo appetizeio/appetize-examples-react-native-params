@@ -1,12 +1,11 @@
 
-## _Simple React Native Shared Prefrences Example_
+## Simple React Native Shared Prefrences Example
 
 ## Installation
 
 Clone the project and cd into the project
 
 ```sh
-cd Project
 npm run android OR yarn android
 ```
 Pass params as per mentioned here
