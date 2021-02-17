@@ -1,7 +1,7 @@
 
 ## Simple React Native Shared Prefrences Example
 
-## Installation
+### Installation
 
 Clone the project and cd into the project
 
